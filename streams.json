@@ -1,0 +1,10 @@
+{
+  "streams": {
+    "1": {
+      "input": "http://thksmom.shop/AE_1018/index.m3u8",
+      "output": "rtmp://live.restream.io/live/re_7638211_event4c220a8725e842108313d235ea41e326",
+      "running": false,
+      "manuallyStopped": true
+    }
+  }
+}
