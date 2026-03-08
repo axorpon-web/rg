@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rewrite Test</title>
+</head>
+
+<body style="font-family:sans-serif">
+
+<h1>Rewrite Working ✅</h1>
+
+<p id="slug"></p>
+
+<script>
+
+const path = window.location.pathname
+const slug = path.split("/").pop()
+
+document.getElementById("slug").innerText =
+"Detected slug: " + slug
+
+</script>
+
+</body>
+</html>
