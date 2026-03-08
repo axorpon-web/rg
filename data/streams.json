@@ -1,1 +1,18 @@
-{"india-vs-new-zealand":[{"id":41,"name":"Server 1","player":"f1","stream_link":"https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn","position":0},{"id":42,"name":"FANCODE","player":"pl1","stream_link":"fc","position":1}]}
+{
+  "india-vs-new-zealand": [
+    {
+      "id": 41,
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn",
+      "position": 0
+    },
+    {
+      "id": 42,
+      "name": "FANCODE",
+      "player": "pl1",
+      "stream_link": "fc",
+      "position": 1
+    }
+  ]
+}
