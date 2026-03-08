@@ -1,0 +1,17 @@
+[
+  {
+    "id": "india-vs-new-zealand",
+    "competition_name": "Cricket | ICC Men’s T20 World Cup",
+    "competition_logo": "https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063",
+    "teamA": {
+      "name": "India",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/India.png?4"
+    },
+    "teamB": {
+      "name": "New Zealand",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/New-Zealand.png?4"
+    },
+    "matchTime": "1772976600.0",
+    "endTime": "1773005400.0"
+  }
+]
